@@ -1,3 +1,12 @@
 <resources>
-    <string name="app_name">BaselineTemplate</string>
+    <string name="app_name">Tic-tac-toe</string>
+    <string name="turn_x">X\'s turn</string>
+    <string name="turn_o">O\'s turn</string>
+    <string name="win_x">X wins</string>
+    <string name="win_o">O wins</string>
+    <string name="draw">Draw</string>
+    <string name="restart">Restart</string>
+    <string name="mode_two_players">2 players</string>
+    <string name="mode_vs_computer">vs computer</string>
+    <string name="score">X: %1$d | O: %2$d | Draws: %3$d</string>
 </resources>
