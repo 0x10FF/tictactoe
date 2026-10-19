@@ -13,4 +13,7 @@
 .externalNativeBuild
 .cxx
 local.properties
-.agent/result.json
+# Agent orchestration state and plans (local only)
+.agent/
+docs/plans/
+AGENTS.md
